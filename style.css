@@ -1,0 +1,10 @@
+.titulo{
+  text-align: center;
+  margin: 50px 0 50px 0;
+}
+
+.formulario{
+  display:flex;
+  margin-bottom: 50px;
+  justify-content: center;
+}
